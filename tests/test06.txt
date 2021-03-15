@@ -1,0 +1,8 @@
+#
+# test06.txt - Commande avec redirection d'entrée ou de sortie mais sur fichier sans droits
+#
+touch toto2
+chmod 000 toto2
+ls -l > toto2
+cat < toto2
+quit

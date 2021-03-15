@@ -1,0 +1,5 @@
+#
+# test09.txt - Commande inconnue
+#
+dvedfa
+quit

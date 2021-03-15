@@ -1,0 +1,5 @@
+#
+# test08.txt - Commande avec plusieurs pipes
+#
+cat sample | grep -v a | sort -r
+quit

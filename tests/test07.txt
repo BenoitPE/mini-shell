@@ -1,0 +1,5 @@
+#
+# test07.txt - Commande avec un pipe
+#
+ls | wc
+quit

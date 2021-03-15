@@ -1,0 +1,6 @@
+#
+# test05.txt - Commande avec redirection d'entrée ou de sortie
+#
+ls -l > toto
+cat < toto
+quit
