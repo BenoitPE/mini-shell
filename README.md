@@ -7,4 +7,4 @@ This project was carried out during the academic year of 2021 at the university 
 ## How to run
 Clone the project on your computer.\
 Write `make` to compile all the files and create the "shell" executable.\
-`./shell` to run the shell.\
+`./shell` to run the shell.
